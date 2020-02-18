@@ -3,3 +3,10 @@
     text-align:center;
     margin-right: auto;
 }
+.pagecenter{
+    position:relative;
+    display: inline-block;
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: center;
+}
